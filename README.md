@@ -24,7 +24,7 @@
 
    counting bilioners by age:
 
-  copy and paste the previous table and drag raws and columns and add age to rows the value become sume of age filter it as age for more sense.
+  copy and paste the previous table and drag raws and columns and add age to rows the value become sum of age filter it as count of age for more sense.
   
 
 
